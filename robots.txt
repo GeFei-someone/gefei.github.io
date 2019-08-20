@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://localhost:1313/sitemap.xml
+Sitemap: https://gefei-someone.github.io/gefei.github.io/sitemap.xml
